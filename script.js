@@ -46,3 +46,12 @@ function Cls(n) {
 		}
 	}
 }
+
+function indice(n){ 
+  if(open==true){
+document.getElementById("hamburger").style.opacity = 100% ;
+}
+    if(open==false){
+setTimeout(function(){document.getElementById("hamburger").style.opacity= 0%; },600);
+}
+  }
