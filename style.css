@@ -218,6 +218,10 @@ body{
     width: 80%;
 }
 
+a{
+font-family: 'Gruppo', cursive;
+}
+
 .n-expert{
     width: 100%;
     display: inline-block;
